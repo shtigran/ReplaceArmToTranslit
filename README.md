@@ -4,7 +4,7 @@
 ----
 ### Purpose
 Many Armenians in the world aren't able to understand armenian letters and armenian text. Many of them know armenian language, but know letters. 
-This program allow inputing armenian text replace to english, in orderto  who knows the armenian lanuage, but doesn't know the armenian letters can read the text.
+This program allow inputed armenian text replace to english, in order to  who knows the armenian lanuage, but doesn't know the armenian letters can read the text.
 
 ----
 
