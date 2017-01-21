@@ -1,4 +1,4 @@
-# Replace Armenian text into English
+# Replace Armenian text into translit
 # C#6.0  .NET FRAMEWORK 4.6
 
 ----
